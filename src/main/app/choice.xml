@@ -29,6 +29,6 @@ http://www.mulesoft.org/schema/mule/ee/tracking http://www.mulesoft.org/schema/m
         <logger message="This is get method" level="INFO" doc:name="Logger"/>
     </flow>
     <flow name="putlogger">
-        <logger message="This is put method" level="INFO" doc:name="Logger"/>
+        <logger message="This is put method for this use case" level="INFO" doc:name="Logger"/>
     </flow>
 </mule>
